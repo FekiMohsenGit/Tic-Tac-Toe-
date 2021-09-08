@@ -9,7 +9,7 @@ a Jar will be Generated on the target folder.
 
 u need to run a cmd in the same folder and execute "java -jar jarname.jar"
 
--The game contain two mode : Player Vs computer and 2 player
--After Chosing the Game mode you will need to specify the name of the first player and the seconde if you choosed 2 player mode.
--After that you will need to choose the slot that u'll insert you X or O.
--After the game ends (Draw or win) you'll be asked if you want to play again
+- The game contain two mode : Player Vs computer and 2 player
+- After Chosing the Game mode you will need to specify the name of the first player and the seconde if you choosed 2 player mode.
+- After that you will need to choose the slot that u'll insert you X or O.
+- After the game ends (Draw or win) you'll be asked if you want to play again
