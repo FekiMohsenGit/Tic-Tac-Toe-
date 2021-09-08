@@ -1,5 +1,4 @@
 # tictactoe
-=========
 
 This is a simple game of tic tac toe that I created that can be played with the command line.
 
